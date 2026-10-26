@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReelCounter</string>
+    <string name="accessibility_service_description">Counts Instagram Reels swipes on this device only. It does not read or store any messages, captions, comments or usernames.</string>
+</resources>
